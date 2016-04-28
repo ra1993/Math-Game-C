@@ -1,0 +1,2 @@
+-First C++ Project of the semester.
+-Created a randomized Math Game. 
